@@ -2,11 +2,11 @@
 
 This notebook runs three different exploratory statistics on constructed data for between group differences. 
 
-#First Data Set 
+# First Data Set 
 
 The first data set represents from an experiment with five groups at different levels of a given condition. An ANOVA is used to explore meaningful differences between groups. 
 
-#Second Data Set 
+## Second Data Set 
 
 The second data set explores a hypothetical experiment between three groups with two Dependent Variables. MANOVA is used to analyze the data and the group differences are represented with a PCA Biplot and standard statistics calculated for each group. 
 
