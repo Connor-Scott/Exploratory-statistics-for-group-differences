@@ -10,7 +10,7 @@ The data used in this project is synthetic, generated to simulate different expe
 
 - **First Dataset:** Simulates an experiment with five groups at different levels of a given condition.
 - **Second Dataset:** Represents a hypothetical experiment involving three groups with two dependent variables.
-- **Third Dataset:** Mimics a 3x3 experimental design, with nine total conditions and three dependent variables.
+- **Third Dataset:** Mimics a 3x3 experimental design, with nine total conditions and with three dependent variables.
 
 ## Approach
 
